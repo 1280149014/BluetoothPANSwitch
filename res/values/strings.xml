@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTPAN Switch</string>
+    <string name="menu_save">Save</string>
+    <string name="description_text">This App allows to let your device automatically connect to another one via bluetooth from notification. This is useful if you use bluetooth tethering with a wlan only device (e.g. Transformer Prime) and a smartphone. To do so follow this instructions: &lt;br /&gt;1) Pair both devices &lt;br /&gt; 2) Enable Bluetooth tethering on the phone(Settings -&gt; More -&gt; Tethering / Mobile Hotspot -&gt; Bluetooth-Tethering)</string>
+    <string name="enable_autoconnect">Enable BT PAN Switch</string>
+
+</resources>
